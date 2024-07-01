@@ -1,4 +1,4 @@
-public class Main {
+public class Variables {
     public static void main(String[] args) {
             int x = 10;
             int y = 25;
@@ -6,3 +6,8 @@ public class Main {
         System.out.println(total);
     }
 }
+
+
+
+
+
