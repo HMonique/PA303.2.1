@@ -11,5 +11,6 @@ public class TwoIntegerVariables {
         System.out.println(sum);
     }
 }
-
+// Had to change the larger integer into a double because of the decimal.
+// Sum had to be changed into a double sum.
 
