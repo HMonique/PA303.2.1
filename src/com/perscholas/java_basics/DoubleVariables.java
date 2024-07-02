@@ -1,3 +1,5 @@
+package com.perscholas.java_basics;
+
 public class DoubleVariables {
     public static void main(String[] args) {
         double x = 20.5;

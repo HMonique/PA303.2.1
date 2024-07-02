@@ -1,3 +1,5 @@
+package com.perscholas.java_basics;
+
 public class DoubleVariable {
     public static void main(String[] args) {
         double a = 22.0;

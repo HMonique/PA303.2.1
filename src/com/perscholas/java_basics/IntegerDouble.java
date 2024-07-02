@@ -1,3 +1,5 @@
+package com.perscholas.java_basics;
+
 public class IntegerDouble {
     public static void main(String[] args) {
 
