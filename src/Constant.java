@@ -14,5 +14,7 @@ public class Constant {
 
         System.out.println("Subtotal:" +subtotal);
 
+        System.out.println("Total Sale:" +totalSale);
+
     }
 }
